@@ -40,10 +40,10 @@
         android:text="Login Page"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@+id/registerBtn"
-        app:layout_constraintHorizontal_bias="0.681"
+        app:layout_constraintHorizontal_bias="0.672"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView4"
-        app:layout_constraintVertical_bias="0.199" />
+        app:layout_constraintVertical_bias="0.198" />
 
     <Button
         android:id="@+id/registerBtn"
